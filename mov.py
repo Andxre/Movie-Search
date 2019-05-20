@@ -1,12 +1,10 @@
-<<<<<<< HEAD
+
 '''
 Andre Dasalla
 Version 1.0.0
 May 20, 2019
 '''
 
-=======
->>>>>>> 31f2f84984ae818ddfb61af0d62b9979cc27c26e
 import requests
 from bs4 import BeautifulSoup 
 
