@@ -1,3 +1,9 @@
+'''
+Andre Dasalla
+Version 1.0.0
+May 20, 2019
+'''
+
 import requests
 from bs4 import BeautifulSoup 
 
