@@ -1,7 +1,7 @@
 
 '''
 Andre Dasalla
-Version 1.0.1
+Version 1.0.2
 May 20, 2019
 '''
 
@@ -27,7 +27,7 @@ def search(newTitle, title):
 def main():
 	print("Movie Site Searcher")
 	print("Created By: Andre Dasalla")
-	print("Version 1.0")
+	print("Version 1.0.2")
 
 	title = input("\nEnter Title of Movie: ")
 	newTitle = title.replace(" ", "+")
